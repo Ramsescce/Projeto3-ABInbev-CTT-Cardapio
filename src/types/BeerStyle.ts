@@ -4,7 +4,7 @@ export interface beerStyle {
         name:string
         tagline:string
         description:string
-        image_url: any
-        setBeer:any
+        image_url: string
+        
     
 } 
